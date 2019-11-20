@@ -1,5 +1,8 @@
 .DS_Store
 
+# Just used for testing the token output
+index.html
+
 # Logs
 logs
 *.log
